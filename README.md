@@ -4,6 +4,7 @@
 **CrisJk/CrisJk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+- 🎉 560B (A26B) LLM [Longcat Flash⚡️⚡️⚡️](https://github.com/meituan-longcat/LongCat-Flash-Chat) developed by our team is released!
 - 🎉 Our work on hallucination of MLLM [Hallu-PI](https://openreview.net/forum?id=BWGqgBVJsa) is accepted by ACM MM 2024!
 - 🎉 Our latest work on [LLM red team](https://github.com/NJUNLP/ReNeLLM) is accepted by NAACL 2024!
 
